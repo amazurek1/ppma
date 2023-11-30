@@ -4,8 +4,7 @@
 <br>The primary objective of the research paper and the models developed at Boehringer Ingelheim is to accurately predict the percent monomer of a given antibody. This prediction is based on the sequence, germline, and format information associated with each antibody.
 
 # Repo Summary
-<br>
-This code is designed to compute the features outlined in the methods section of the research paper, "Predicting the Purity of Multispecific Antibodies from Sequence Using Machine Learning". It includes a step-by-step guide on how to transform raw antibody data into features suitable for a Machine Learning model.<br>
+This code is designed to compute the features outlined in the methods section of the research paper, "Predicting the Purity of Multispecific Antibodies from Sequence Using Machine Learning". It includes a step-by-step guide on how to transform raw antibody data into features suitable for a Machine Learning model.<br><br>
 
 **example_data.csv**
 <br><br>
