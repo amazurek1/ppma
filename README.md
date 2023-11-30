@@ -14,7 +14,7 @@ This file contains data for two sample antibodies. Each row represents an antibo
 <br><br>
 This data corresponds to the same antobodies in the example_data.csv, and contains the individual framework and CDR component split ups for each sequence in the example_data.csv<br>
 
-**Code_ALong_for_Paper.ipynb**
+**code_aLong_for_paper.ipynb**
 <br><br>
 This Jupyter notebook processes the "example_data.csv" and "kabat.csv" datasets to transform the raw data into features suitable for use as input in a Machine Learning model. The outcome of this code-along tutorial is a set of features that can be readily utilized for training and evaluating Machine Learning models.
 
