@@ -10,7 +10,7 @@ This code is designed to compute the features outlined in the methods section of
 <br><br>
 This file contains data for two sample antibodies. Each row represents an antibody, and the columns provide the raw features of the antibody. These features include heavy chain and light chain sequences, germlines and germline pairs, format, and lab result percent monomer (the target variable to be predicted).<br>
 
-**Kabat_data.csv**
+**kabat_region_data.csv**
 <br><br>
 This data corresponds to the same antobodies in the example_data.csv, and contains the individual framework and CDR component split ups for each sequence in the example_data.csv<br>
 
