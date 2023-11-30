@@ -1,2 +1,2 @@
 # ppma
-![image](https://github.com/amazurek1/ppma/assets/51759577/3b5b0f9a-5d37-4194-8009-dd2de30703e5)
+![Picture1](https://github.com/amazurek1/ppma/assets/51759577/fcfd9376-1e7a-4440-adea-b028de663358)
