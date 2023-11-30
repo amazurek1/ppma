@@ -1,10 +1,10 @@
 # Paper Summary
 ![Picture1](https://github.com/amazurek1/ppma/assets/51759577/fcfd9376-1e7a-4440-adea-b028de663358)
 <br>
-<br>The goal of the paper (link paper when published) and the models developed at Boehringer Ingelheim is to predict the percent monomer of a given multispecific antibody. This prediction is based on the sequence, germline, and format information associated with each antibody. The code along helps work through the raw data to get to the features to make it easier for others to use this method of featurization for modeling. We do not include the data that was used in the paper, but we do include two sample data points to make the code along easier to follow. At the end of the code along you should be able to feature select and run models on other datasets.
+<br>The goal of the paper (link paper when published) and the models developed at Boehringer Ingelheim is to predict the percent monomer of a given multispecific antibody. This prediction is based on the sequence, germline, and format information associated with each antibody.
 
 # Repo Summary
-This code is designed to compute the features outlined in the methods section of the research paper, "Predicting the Purity of Multispecific Antibodies from Sequence Using Machine Learning". It includes a step-by-step guide on how to transform raw antibody data into features suitable for a Machine Learning model.<br><br>
+This code is designed to compute the features outlined in the methods section of the research paper, "Predicting the Purity of Multispecific Antibodies from Sequence Using Machine Learning". It includes a step-by-step guide on how to transform raw antibody data into features suitable for a Machine Learning model.The code along helps work through the raw data to get to the features to make it easier for others to use this method of featurization for modeling. We do not include the data that was used in the paper, but we do include two sample data points to make the code along easier to follow. At the end of the code along you should be able to feature select and run models on other datasets.<br><br>
 
 **example_data.csv**
 <br><br>
